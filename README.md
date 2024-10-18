@@ -1,8 +1,7 @@
 ### Olá! Eu sou Ewerton Santos 🤙
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ewerton_wt7/)
-[![Instagram](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@santosdev021)
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ewerton-santos-44a97a28b/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@santosdev021)
 
 ![Ewerton GitHub stats](https://github-readme-stats.vercel.app/api?username=ewertonwt7&show_icons=true&theme=dark)
 
@@ -17,7 +16,8 @@
     <img aling="center" alt="SQLITE" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
     <img aling="center" alt="LUA" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
     <img aling="center" alt="LINUX" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img aling="center" alt="LINUX MINT" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white"/>
+    <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    
 </div><br/>
 
-Me chamo Ewerton Macario dos Santos, tenho 21 anos e sou estudande de programação. Todos os dias buscar mais conhecimentos e pretende se tornar um desenvolvedor FULL STACK;
+Me chamo Ewerton Macario dos Santos, tenho 22 anos e estudande de programação. Todos os dias procuro buscar mais conhecimentos.
