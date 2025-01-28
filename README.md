@@ -18,5 +18,3 @@
     <img aling="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     
 </div><br/>
-
-Me chamo Ewerton Macario dos Santos, tenho 22 anos e estudande de programação. Todos os dias procuro buscar mais conhecimentos.
